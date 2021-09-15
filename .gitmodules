@@ -1,0 +1,12 @@
+[submodule "e-commerce-app"]
+	path = e-commerce-app
+	url = https://github.com/Sasa94s/e-commerce-app
+[submodule "critter-chronologer"]
+	path = critter-chronologer
+	url = https://github.com/Sasa94s/critter-chronologer
+[submodule "cars-microservices"]
+	path = cars-microservices
+	url = https://github.com/Sasa94s/cars-microservices
+[submodule "superduperdrive-cloud-storage"]
+	path = superduperdrive-cloud-storage
+	url = https://github.com/Sasa94s/superduperdrive-cloud-storage
